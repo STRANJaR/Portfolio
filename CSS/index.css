@@ -42,14 +42,22 @@ li a:hover {
   font-family: "Roboto Mono", monospace;
 }
 
-.marquee {
+/* .marquee {
   background-color: #8bf588;
   color: black;
   height: 2rem;
   font-size: 1.3rem;
   font-family: "Poppins", sans-serif;
+} */
+.mark{
+  background-color: #1b41e7;
+  color: white;
+  font-size: 1.1rem;
+  font-family: "Poppins", sans-serif;
+  height: 2rem;
+  align-content: center;
+  
 }
-
 #Contact a:hover {
   color: green;
 }
